@@ -1,0 +1,1 @@
+This repository contains a COBOL program with a common error related to data type handling.  The program attempts to process customer names, but it fails if the name contains unexpected characters.  The solution demonstrates how to handle these exceptions gracefully.
